@@ -1,9 +1,9 @@
 ## Hi there 👋
 **Dhruv Patel**
 
-**My portfolio link: https://dhruv-patel-cyan.vercel.app/ **
+**My portfolio link: https://dhruv-patel-cyan.vercel.app/**
 
-**My Resume Link : https://drive.google.com/file/d/1XeEcnyFGrnu3Yv3CnNEL0Mln3busJ94x/view **
+**My Resume Link : https://drive.google.com/file/d/1XeEcnyFGrnu3Yv3CnNEL0Mln3busJ94x/view**
 
 <!--
 **dhrupatel031205/dhrupatel031205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
